@@ -1,6 +1,6 @@
 # End-to-End Healthcare Claims & Fraud Analysis
 
-![Healthcare Dashboard Screenshot](Dashboards/dashboard_screenshot.png)
+![Healthcare Dashboard Screenshot](Dashboards/dashboard_screenshot.png) 
 ---
 
 ### 1. Project Overview
